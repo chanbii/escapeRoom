@@ -10,8 +10,9 @@ Ren'py로 개발한 방탈출 게임입니다. 다양한 클릭 상호작용을 
 - 오브젝트 조합
 
 ## 실행 방법
-1. Unity 2022.3 이상에서 프로젝트 열기
-2. `Assets/Scenes/Main.unity` 실행
+1. 빌드 파일 다운로드
+https://drive.google.com/file/d/1RV2c3UI79esdGHcMUJ4eUp4pa8myOSD7/view?usp=drive_link 
+3. 1_3.exe 실행
 
 ## 스크린샷
 ![게임 화면]
