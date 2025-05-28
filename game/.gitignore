@@ -1,0 +1,24 @@
+# Ren'Py 컴파일 파일
+*.rpyc
+*.rpymc
+
+# 캐시, 세이브, 로그
+**/game/cache/
+**/game/saves/
+**/game/persistent
+**/game/*.log
+
+# 빌드 결과물
+**/build/
+**/dist/
+
+# OS/에디터 임시 파일
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp
+
+# 개발툴 설정
+.idea/
+.vscode/
