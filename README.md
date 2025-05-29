@@ -15,7 +15,7 @@ https://drive.google.com/file/d/1RV2c3UI79esdGHcMUJ4eUp4pa8myOSD7/view?usp=drive
 3. 1_3.exe 실행
 
 ## 스크린샷
-![게임 화면]
+
 <img width="803" alt="스크린샷_2025-02-23_오후_11 40 09" src="https://github.com/user-attachments/assets/58ab1444-87d2-47df-a754-7922e56047ff" />
 <img width="809" alt="스크린샷_2025-02-23_오후_11 40 35" src="https://github.com/user-attachments/assets/1e05204d-a69f-4a37-84d6-10958a9db186" />
 <img width="808" alt="스크린샷_2025-02-23_오후_11 40 24" src="https://github.com/user-attachments/assets/50d1a1d5-2fee-4ee9-a277-e21ebb655782" />
